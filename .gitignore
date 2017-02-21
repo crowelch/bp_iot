@@ -28,3 +28,11 @@ node_modules
 
 # Debug log from npm
 npm-debug.log
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
